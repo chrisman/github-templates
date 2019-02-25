@@ -16,11 +16,11 @@ Two scenarios:
 
 1. You are starting a new project from scratch.
 
-	Just clone this repo into a new directory and get to hacking.
+    Just clone this repo into a new directory and get to hacking.
 
 2. You have already started a project and want to add templates to it now.
 
-	Clone this repo somewhere, and copy the files over to your existing project. (This could overwrite pre-existing files in your `/docs` folder.)
+    Clone this repo somewhere, and copy the files over to your existing project.
 
 ## Usage
 
@@ -28,9 +28,7 @@ Your templates can be living documents. Update them and add to them as needed/de
 
 ## Contents
 
-This boilerplate includes the following. They are all included in the `/docs` folder instead of the hidden `/.github` folder so that they are more visible.
-
-Documentation and communication tools deserve to be first class citizens and to have equal footing with your code. So we don't put it in a hidden directory.
+This boilerplate includes the following.
 
 ### Readme
 
